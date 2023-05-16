@@ -8,9 +8,7 @@ Generates a 3x3 color palette based on an image. It uses K-mean clustering to pi
 Download the above files into a desired directory. Use the PalGen.bat file to run the program. **Optional**: Create a desktop shortcut to the .bat file. Feel free to include the provided icon
 
 ## Examples
-![Example 1](https://github.com/emmettm42/PalGen/blob/main/example1_buffbob.png)
-
-![Example 2](https://github.com/emmettm42/PalGen/blob/2f552101c25c34fbfd7933ff561a26102a1a9141/milkyway_palgen.png)
+![Example 1](https://github.com/emmettm42/PalGen/blob/2f552101c25c34fbfd7933ff561a26102a1a9141/milkyway_palgen.png)
 
 ### Author
 Emmett Maloney
